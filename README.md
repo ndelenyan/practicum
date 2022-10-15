@@ -1,4 +1,4 @@
-# practicum
-# header 01
-## header 02
-### header 03
+# Яндекс практикум
+### Содержимое репозитория
+[README.md (настоящий файл)](README.md) - описание\r\n
+[requirements.txt](requirements.txt) - библиотеки, необходимые для практикума
