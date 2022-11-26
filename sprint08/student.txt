@@ -1,0 +1,9 @@
+<div style="background: #B0E0E6; padding: 5px; border: 1px solid SteelBlue; border-radius: 5px;">
+    <font color='4682B4'><u><b>КОММЕНТАРИЙ СТУДЕНТА</b></u></font>
+    <br />
+    <font color='4682B4'>Текст твоего комментария ...</font>
+</div>
+
+plt.title(label='')
+plt.xlabel('')
+plt.ylabel('')
