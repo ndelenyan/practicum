@@ -10,5 +10,5 @@ echo 'pip upgraded to actual version'
 echo 'setuptools upgraded to actual version'
 pip install jupyter
 echo 'jupyter installed in the environment: notebook functionality available'
-pip install -r requirements_wsl.txt
+pip install -r requirements_ubuntu.txt
 echo 'all requirements installed'
